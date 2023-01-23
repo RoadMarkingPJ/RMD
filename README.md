@@ -3,7 +3,7 @@
 
 ## Update
 - The original dataset in the paper has been ameliorated by adding more symbolic road marking classes such as [bus stop]. As now, the dataset has 31 classes.
-- The annotation mistake of some classes also has been changed. The names of classes and their corresponding RGB values are below.
+- The annotation mistakes of some classes also have been changed. The names of classes and their corresponding RGB values are below.
 
 |    Name   | RGB value 
 :----: | :----------: 
